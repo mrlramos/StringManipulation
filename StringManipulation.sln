@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_InversionCapitalization",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_PalindromesAnagrams", "2_PalindromesAnagrams\2_PalindromesAnagrams.csproj", "{713754A8-EF03-42DE-9E81-E3006C8D05F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_RunLength", "3_RunLength\3_RunLength.csproj", "{048C8371-14D7-4AD3-A5E2-9DDF508E963E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{713754A8-EF03-42DE-9E81-E3006C8D05F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{713754A8-EF03-42DE-9E81-E3006C8D05F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{713754A8-EF03-42DE-9E81-E3006C8D05F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{048C8371-14D7-4AD3-A5E2-9DDF508E963E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048C8371-14D7-4AD3-A5E2-9DDF508E963E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048C8371-14D7-4AD3-A5E2-9DDF508E963E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048C8371-14D7-4AD3-A5E2-9DDF508E963E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
