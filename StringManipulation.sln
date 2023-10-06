@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_PalindromesAnagrams", "2_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_RunLength", "3_RunLength\3_RunLength.csproj", "{048C8371-14D7-4AD3-A5E2-9DDF508E963E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_FirstUniqueChar", "4_FirstUniqueChar\4_FirstUniqueChar.csproj", "{BD0CC47F-7FDD-4705-B29F-8D3442A0E56D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{048C8371-14D7-4AD3-A5E2-9DDF508E963E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{048C8371-14D7-4AD3-A5E2-9DDF508E963E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{048C8371-14D7-4AD3-A5E2-9DDF508E963E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0CC47F-7FDD-4705-B29F-8D3442A0E56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0CC47F-7FDD-4705-B29F-8D3442A0E56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0CC47F-7FDD-4705-B29F-8D3442A0E56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0CC47F-7FDD-4705-B29F-8D3442A0E56D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
