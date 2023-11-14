@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 Console.WriteLine(IsPalindrome("radar"));
 Console.WriteLine(IsPalindrome("test"));
 
@@ -9,7 +10,7 @@ Console.WriteLine(IsAnagram("test", "banana"));
 
 Console.ReadLine();
 
-static bool IsPalindrome (string word)
+static bool IsPalindrome(string word)
 {
     string invertedWord = string.Empty;
 
@@ -28,7 +29,7 @@ static bool IsPalindrome (string word)
     }
 }
 
-static bool IsAnagram (string word, string word2) 
+static bool IsAnagram(string word, string word2) 
 {
     if (word.Length == word2.Length)
     {

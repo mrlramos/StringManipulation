@@ -1,10 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 Console.WriteLine(IsShuffledSubstring("abcde", "abcdf"));
 Console.WriteLine(IsShuffledSubstring("abcde", "abcde"));
 Console.WriteLine(IsShuffledSubstring("abcde", "abdf"));
 Console.WriteLine(IsShuffledSubstring("abeg", "gagber"));
 
-static bool IsShuffledSubstring (string a, string b)
+static bool IsShuffledSubstring(string a, string b)
 {
     if (a == string.Empty)
     {

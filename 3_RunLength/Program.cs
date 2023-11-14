@@ -8,7 +8,7 @@ Console.WriteLine(RunLength("aabbcvqweeeeew"));
 
 Console.ReadLine();
 
-static string RunLength (string strg)
+static string RunLength(string strg)
 {
     char[] charsStrg = strg.ToCharArray();
     short count = 1;

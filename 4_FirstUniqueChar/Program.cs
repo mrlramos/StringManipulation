@@ -7,7 +7,7 @@ Console.WriteLine(FirstUniqueChar("aaccddv"));
 
 Console.ReadLine();
 
-static string FirstUniqueChar (string word)
+static string FirstUniqueChar(string word)
 {
     char[] charArrayWord = word.ToCharArray();
     string firstUnique = ""; 
